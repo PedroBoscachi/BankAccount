@@ -1,0 +1,14 @@
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.exe
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.deps.json
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.json
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.runtimeconfig.dev.json
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.dll
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\bin\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.AssemblyReference.cache
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfoInputs.cache
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.AssemblyInfo.cs
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.csproj.CoreCompileInputs.cache
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.dll
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.pdb
+D:\Pedro\Udemy\Curso C# POO\Seção0-Prática Pessoal\1-Classes e Objetos\BankingSystem\BankingSystem\obj\Debug\netcoreapp3.1\BankingSystem.genruntimeconfig.cache
