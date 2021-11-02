@@ -40,6 +40,7 @@ namespace BankingSystem {
                 Console.WriteLine("4- Leave");
                 Console.Write("-> ");
                 string option = Console.ReadLine();
+                Console.WriteLine();
 
                 switch (option) {
 
